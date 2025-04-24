@@ -80,7 +80,7 @@ plt.axis('off')
 plt.imshow(out[:, :, ::-1])
 cv2.imwrite((f'scripts/images/stockoutface2.png'), out)
 
-
+# This sort algorthim is made by GregT
 def sort_pixels(image: Image, value: Callable, condition: Callable, rotation: int = 0) -> Image:
     pixels = np.rot90(np.array(image), rotation)
     values = value(pixels)
