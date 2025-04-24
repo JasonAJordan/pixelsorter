@@ -14,4 +14,5 @@ To run the face pixel sort, change the fileInName and fileOutName on lines 10 an
 <img src="https://raw.githubusercontent.com/JasonAJordan/pixelsorter/refs/heads/master/scripts/images/stockFinal.png" width="400" /> <img src="https://raw.githubusercontent.com/JasonAJordan/pixelsorter/refs/heads/master/scripts/images/stockFinal2.png" width="400" />
 
 
-
+### Credits and misc
+ My pixelsorting algorithim is currently subpar current first pass pixel sort algorithim is made by GregTJ
