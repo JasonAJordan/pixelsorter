@@ -15,6 +15,3 @@ To run the face pixel sort, change the fileInName and fileOutName on lines 10 an
 
 
 
-
-### Credits and misc
-My pixelsorting algorithim is currently subpar current algorithim is made by GregTJ
